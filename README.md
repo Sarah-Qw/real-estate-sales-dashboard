@@ -8,14 +8,16 @@
 > **An end-to-end data engineering, Exploratory Data Analysis (EDA), and interactive web dashboard solution analyzing real estate transactions (2023–2025).**
 
 ---
-
-### **Overview**
+## 🚀 Project Overview
 This project presents an end-to-end data engineering, Exploratory Data Analysis (EDA), and interactive web dashboard solution for a real estate sales enterprise covering the years **2023–2025**. The pipeline ingests 36 individual monthly transactional files alongside core customer and project dimension tables, performs rigorous data cleaning, feature engineering, and relational merging, and serves the insights through a high-performance **Streamlit** web application styled with professional **Plotly** visualizations.
 
 **Industry:** Real Estate Development & Property Marketing
 
 ---
+## 📈 Dashboard Preview
+![Dashboard Preview](assets/dashboard_preview.png)
 
+--- 
 ### **Project Architecture & Tech Stack**
 * **Data Processing & Manipulation:** `Pandas`, `NumPy`
 * **Geospatial & Text Normalization:** `Regular Expressions (Regex)` for PII and phone/address parsing
