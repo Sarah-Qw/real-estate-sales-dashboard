@@ -94,7 +94,8 @@ The interactive Streamlit application is organized into two primary analytical v
 | File / Folder | Description |
 | :--- | :--- |
 | `app.py` | **Interactive App.** The core Streamlit web application script. |
-| `notebooks/` | **ETL & EDA.** Jupyter notebooks detailing data ingestion, cleaning, regex PII sanitization, geospatial tuple mapping, and visualization logic. |
+| `notebooks/Test.ipynb` | **ETL & Data Engineering.** Handles 36-file batch ingestion, data cleaning, regex PII sanitization, and geospatial tuple mapping. |
+| `notebooks/DataVis.ipynb` | **Exploratory Data Analysis (EDA).** Houses the Plotly visualization logic and statistical exploration. |
 | `assets/` | **Media.** Stores dashboard screenshots and UI previews. |
 | `requirements.txt` | **Dependencies.** Lists all required Python libraries. |
 
