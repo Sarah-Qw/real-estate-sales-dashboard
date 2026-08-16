@@ -17,21 +17,19 @@ This project presents an end-to-end data engineering, Exploratory Data Analysis 
 ## 📈 Dashboard Preview
 Here is a complete visual walkthrough of the interactive **Streamlit** dashboard pages and analytics:
 
-<p align="center">
-  <img src="assets/dashboard_preview1.png" width="48%" />
-  <img src="assets/dashboard_preview2.png" width="48%" />
-</p>
-<p align="center">
-  <img src="assets/dashboard_preview3.png" width="48%" />
-  <img src="assets/dashboard_preview4.png" width="48%" />
-</p>
-<p align="center">
-  <img src="assets/dashboard_preview5.png" width="48%" />
-  <img src="assets/dashboard_preview6.png" width="48%" />
-</p>
-<p align="center">
-  <img src="assets/dashboard_preview7.png" width="48%" />
-</p>
+![Dashboard Preview 1](assets/dashboard_preview1.png)
+
+![Dashboard Preview 2](assets/dashboard_preview2.png)
+
+![Dashboard Preview 3](assets/dashboard_preview3.png)
+
+![Dashboard Preview 4](assets/dashboard_preview4.png)
+
+![Dashboard Preview 5](assets/dashboard_preview5.png)
+
+![Dashboard Preview 6](assets/dashboard_preview6.png)
+
+![Dashboard Preview 7](assets/dashboard_preview7.png)
 
 --- 
 ### **Project Architecture & Tech Stack**
