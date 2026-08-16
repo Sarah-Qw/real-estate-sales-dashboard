@@ -107,3 +107,8 @@ The interactive Streamlit application is organized into two primary analytical v
    ```bash
    git clone https://github.com/Sarah-Qw/real-estate-sales-dashboard.git
    cd real-estate-sales-dashboard
+
+---
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
