@@ -114,7 +114,7 @@ The interactive Streamlit application is organized into two primary analytical v
    ~~~
 
 3. **Acquire Data:** 
-   Download `sales_full_dataset.csv` from this [Google Drive Link](ضع_رابط_قوقل_درايف_هنا) (Data is not hosted here due to GitHub's size constraints). Place the downloaded file directly into the root directory of the project.
+   Download `sales_full_dataset.csv` from this [Google Drive Link]https://drive.google.com/file/d/1nk6Bmu3uSqYQ0mNI21KTtKKHCy05n8HK/view?usp=sharing (Data is not hosted here due to GitHub's size constraints). Place the downloaded file directly into the root directory of the project.
 
 4. **Run Pipeline (Optional):** 
    Execute `notebooks/Test.ipynb` to review the ETL pipeline, data cleaning, and how the raw 36 monthly logs were processed and merged.
