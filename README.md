@@ -101,7 +101,7 @@ The interactive Streamlit application is organized into two primary analytical v
 
 ---
 
-### **How to Run the Application Locally**
+### ⚙️**How to Run the Application Locally**
 
 1. Clone the repository and navigate to the project directory:
    ```bash
