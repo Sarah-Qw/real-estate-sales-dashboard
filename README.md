@@ -90,6 +90,15 @@ The interactive Streamlit application is organized into two primary analytical v
    * **Comprehensive Data Table:** Provides an interactive summary table of city-level metrics (Total Revenue, Share %, Average Deal Size).
 
 ---
+## 📂 Repository Structure
+| File / Folder | Description |
+| :--- | :--- |
+| `app.py` | **Interactive App.** The core Streamlit web application script. |
+| `notebooks/` | **ETL & EDA.** Jupyter notebooks detailing data ingestion, cleaning, regex PII sanitization, geospatial tuple mapping, and visualization logic. |
+| `assets/` | **Media.** Stores dashboard screenshots and UI previews. |
+| `requirements.txt` | **Dependencies.** Lists all required Python libraries. |
+
+---
 
 ### **How to Run the Application Locally**
 
