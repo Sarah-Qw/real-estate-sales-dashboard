@@ -107,6 +107,23 @@ The interactive Streamlit application is organized into two primary analytical v
    ```bash
    git clone https://github.com/Sarah-Qw/real-estate-sales-dashboard.git
    cd real-estate-sales-dashboard
+   
+2. **Install Dependencies:**
+   ~~~bash
+   pip install -r requirements.txt
+   ~~~
+
+3. **Acquire Data:** 
+   Download `sales_full_dataset.csv` from this [Google Drive Link](ضع_رابط_قوقل_درايف_هنا) (Data is not hosted here due to GitHub's size constraints). Place the downloaded file directly into the root directory of the project.
+
+4. **Run Pipeline (Optional):** 
+   Execute `notebooks/Test.ipynb` to review the ETL pipeline, data cleaning, and how the raw 36 monthly logs were processed and merged.
+
+5. **Explore Dashboard:** 
+   Run the following command to launch the interactive web application:
+   ~~~bash
+   streamlit run app.py
+   ~~~
 
 ---
 ## 📜 License
