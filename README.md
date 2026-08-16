@@ -72,5 +72,5 @@ The interactive Streamlit application is organized into two primary analytical v
 
 1. Clone the repository and navigate to the project directory:
    ```bash
-   git clone (https://github.com/Sarah-Qw/real-estate-sales-dashboard/tree/main)
+   git clone https://github.com/Sarah-Qw/real-estate-sales-dashboard/tree/main
    cd real-estate-sales-dashboard
