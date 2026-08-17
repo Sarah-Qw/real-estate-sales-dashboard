@@ -101,6 +101,21 @@ Here is a complete visual walkthrough of the interactive **Streamlit** dashboard
 
 ---
 
+## 💡 Key Findings & Strategic Recommendations
+
+Based on the comprehensive EDA and interactive dashboard analytics, several actionable business insights were derived to guide future real estate investments and marketing strategies:
+
+### 📌 Core Market Insights
+* **Geographic Dominance:** Cities like **New Cairo** and **Sheikh Zayed** drive the highest revenue, showing strong market demand.
+* **Customer Segments:** **VIP** and **New** clients generate significant sales, proving the success of recent marketing efforts.
+* **Channel Efficiency:** Specific sales channels (e.g., Brokers) secure much higher average deal sizes compared to others.
+
+### 🎯 Business Recommendations
+1. **Targeted Marketing:** Focus advertising budgets on top-performing cities to maximize ROI.
+2. **Sales Optimization:** Reward top agents based on deal value rather than just volume, and provide targeted training for the rest.
+3. **Customer Retention:** Create loyalty programs for VIPs and special onboarding offers for new clients to encourage repeat investments.
+---
+
 ### ⚙️**How to Run the Application Locally**
 
 1. Clone the repository and navigate to the project directory:
