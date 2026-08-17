@@ -13,23 +13,7 @@ This project presents an end-to-end data engineering, Exploratory Data Analysis 
 
 **Industry:** Real Estate Development & Property Marketing
 
----
-## 📈 Dashboard Preview
-Here is a complete visual walkthrough of the interactive **Streamlit** dashboard pages and analytics:
 
-![Dashboard Preview 1](assets/dashboard_preview1.png)
-
-![Dashboard Preview 2](assets/dashboard_preview2.png)
-
-![Dashboard Preview 3](assets/dashboard_preview3.png)
-
-![Dashboard Preview 4](assets/dashboard_preview4.png)
-
-![Dashboard Preview 5](assets/dashboard_preview5.png)
-
-![Dashboard Preview 6](assets/dashboard_preview6.png)
-
-![Dashboard Preview 7](assets/dashboard_preview7.png)
 
 --- 
 ### **Project Architecture & Tech Stack**
@@ -88,7 +72,23 @@ The interactive Streamlit application is organized into two primary analytical v
 2. **💡 Insights Page:**
    * **Automated Text Intelligence:** Dynamically generates natural-language executive summaries highlighting key market drivers, top cities, leading agents, and month-over-month growth patterns based on active sidebar filters.
    * **Comprehensive Data Table:** Provides an interactive summary table of city-level metrics (Total Revenue, Share %, Average Deal Size).
+---
+## 📈 Dashboard Preview
+Here is a complete visual walkthrough of the interactive **Streamlit** dashboard pages and analytics:
 
+![Dashboard Preview 1](assets/dashboard_preview1.png)
+
+![Dashboard Preview 2](assets/dashboard_preview2.png)
+
+![Dashboard Preview 3](assets/dashboard_preview3.png)
+
+![Dashboard Preview 4](assets/dashboard_preview4.png)
+
+![Dashboard Preview 5](assets/dashboard_preview5.png)
+
+![Dashboard Preview 6](assets/dashboard_preview6.png)
+
+![Dashboard Preview 7](assets/dashboard_preview7.png)
 ---
 ## 📂 Repository Structure
 | File / Folder | Description |
